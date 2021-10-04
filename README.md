@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning React 
 
-- 📫 How to reach me: arasheyn@gmail.com 
+- 📫 How to reach me: araash.abs@gmail.com 
 
 - 😄 Pronouns: he/him 
 
@@ -34,7 +34,3 @@ Skills: REACT / JS / HTML / CSS
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arasheyn)  
-
-
-
-![Profile views](https://gpvc.arturio.dev/arasheyn)  
