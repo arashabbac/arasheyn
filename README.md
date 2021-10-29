@@ -8,9 +8,9 @@ Skills: REACT / JS / HTML / CSS
 
 
 
-- 🔭 I’m currently working on eFarda 
+- 🔭 I’m currently working at eFarda 
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning TDD 
 
 - 📫 How to reach me: araash.abs@gmail.com 
 
